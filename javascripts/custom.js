@@ -7,12 +7,21 @@ $body = $('body');
 $body.imagesLoaded( function() {
 	setTimeout(function() {
 		  
-		  // Resize sections
-		  adjustWindow();
-		  
-		  // Fade in sections
-		  $body.removeClass('loading').addClass('loaded');
-		  
+		// Resize sections
+		adjustWindow();
+		
+		// Always scroll to top
+		$(document).scrollTop(0);
+
+		$("nav").addClass('loaded');
+		
+		// Fade in sections
+		$body.removeClass('loading').addClass('loaded');
+
+		// Set home as active in nav bar
+		$("nav>ul>li.active").removeClass("active");
+		$("#homeA").addClass("active");
+		
 	}, 1000);
 });
 
@@ -58,18 +67,33 @@ function adjustWindow(){
 }
 
 $( document ).ready(function() {
+
+	// Always scroll to top
+	$(document).scrollTop(0);
+
 	$(".companyLogo[rel]").overlay({
-		effect: 'apple',
-		mask: {
-			// you might also consider a "transparent" color for the mask
-			color: '#000',
-		 
-			// load mask a little faster
-			loadSpeed: 200,
-		 
-			// very transparent
-			opacity: 0
-		},
-		closeOnClick: true
+		closeOnClick: true,
+		onBeforeLoad: function () {
+			
+		}
+	});
+	
+	$("#slide-1 .bcg").backstretch("images/bcg_slide-1.jpg");
+	$("#slide-3 .bcg").backstretch("images/bcg_slide-3.jpg");
+	$("#slide-5 .bcg").backstretch("images/bcg_slide-5.png");
+	
+	$("#homeA").bind("click", function(){
+		$("nav>ul>li.active").removeClass("active");
+		$("#homeA").addClass("active");
+	});
+	
+	$("#experienceA").bind("click", function(){
+		$("nav>ul>li.active").removeClass("active");
+		$("#experienceA").addClass("active");
+	});
+	
+	$("#projectsA").bind("click", function(){
+		$("nav>ul>li.active").removeClass("active");
+		$("#projectsA").addClass("active");
 	});
 });

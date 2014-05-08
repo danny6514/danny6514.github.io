@@ -8,163 +8,166 @@
 <meta charset="UTF-8" />
 </head>
 <body class="loading">
-	<nav>
-		<ul>
-			<li><a href="#" data-menu-top="0p">Home</a></li>
-			<li><a href="#" data-menu-top="100p">Professional Experience</a></li>
-			<li><a href="#" data-menu-top="200p">Projects</a></li>
-		</ul>
-	</nav>	
-	<main>
-		<section id="slide-1" class="homeSlide">
-			<div class="bcg">
-				<div class="hsContainer">
-					<div class="hsContent"
-						data-bottom="opacity: 1"
-						data-top="opacity: 0"
-						data-anchor-target="#frontPageContent">
-						<div id="frontPageContent">
-							<h2>Hello, I'm Danny.</h2>
-							<p>I am a Software Developer at SAP Vancouver. Learn more about me by <b>scrolling down</b>.</p>
+	<div id="skrollr-body">
+		<nav>
+			<ul>
+				<li id="homeA"><a href="#" data-menu-top="0p">Home</a></li>
+				<li id="experienceA"><a href="#" data-menu-top="100p">Professional Experience</a></li>
+				<li id="projectsA"><a href="#" data-menu-top="200p">Projects</a></li>
+			</ul>
+		</nav>	
+		<main>
+			<section id="slide-1" class="homeSlide">
+				<div class="bcg">
+					<div class="hsContainer">
+						<div class="hsContent"
+							data-bottom="opacity: 1"
+							data-top="opacity: 0"
+							data-anchor-target="#frontPageContent">
+							<div id="frontPageContent">
+								<h2>Hello, I'm Danny.</h2>
+								<p>I am a Software Developer at SAP Vancouver.</p>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</section>
+			</section>
+			
+			<section id="slide-3" class="homeSlide">
+				<div class="bcg">
+					<div class="hsContainer">
+						<div class="hsContent"
+							data-bottom="opacity: 0;"
+							data-center="opacity: 1;"
+							data-anchor-target="#experienceContent">
+							<div id="experienceContent">
+								<h1>Professional Experience</h1>
+								<div id="capcomLogo" class="companyLogo" rel="#capcomOverlay"></div>
+								<div id="blackberryLogo" class="companyLogo" rel="#blackberryOverlay"></div>
+								<div id="amdLogo" class="companyLogo" rel="#amdOverlay"></div>
+								<div id="ibmLogo" class="companyLogo" rel="#ibmOverlay"></div>
+								<div id="scotiaLogo" class="companyLogo" rel="#scotiaOverlay"></div>
+								<div id="bronteLogo" class="companyLogo" rel="#bronteOverlay"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<section id="slide-5" class="homeSlide">
+				<div class="bcg">
+					<div class="hsContainer">
+						<div class="hsContent"
+							data-bottom="opacity: 0;"
+							data-center="opacity: 1;"
+							data-anchor-target="#projectContent">
+							<div id="projectContent">
+								<h1>Projects</h1>
+								<a href="http://lmms.azurewebsites.net" target="#"><div id="lmmsLogo" class="companyLogo"></div></a>
+								<a href="https://play.google.com/store/apps/details?id=com.dyang.fourband" target="#"><div id="resistorLogo" class="companyLogo"></div></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
 		
-		<section id="slide-3" class="homeSlide">
-			<div class="bcg">
-				<div class="hsContainer">
-					<div class="hsContent"
-						data-bottom="opacity: 0;"
-						data-center="opacity: 1;"
-						data-anchor-target="#experienceContent">
-						<div id="experienceContent">
-							<h1>Professional Experience</h1>
-							<div id="capcomLogo" class="companyLogo" rel="#capcomOverlay"></div>
-							<div id="blackberryLogo" class="companyLogo" rel="#blackberryOverlay"></div>
-							<div id="amdLogo" class="companyLogo" rel="#amdOverlay"></div>
-							<div id="ibmLogo" class="companyLogo" rel="#ibmOverlay"></div>
-							<div id="scotiaLogo" class="companyLogo" rel="#scotiaOverlay"></div>
-							<div id="bronteLogo" class="companyLogo" rel="#bronteOverlay"></div>
-						</div>
-					</div>
-				</div>
+		<!-- overlay for the first trigger. id matches the rel- attribute -->
+		<div class="apple_overlay" id="capcomOverlay">
+			<div class="overlay_logo">
+				<img src="images/capcom_min.png" />
 			</div>
-		</section>
+			<div class="details">
+				<h2>Software Engineer, Co-op</h2>
+				<ul>
+					<li>Enhanced the search engine in the game editor by implementing arithmetic expression parsers to allow for complex search queries. As the search function is frequently used, this significantly reduced unnecessary time wasted.</li>
+					<li>Developed and designed an application that dynamically manages perforce client specs and workspace files based on the user's roles and projects. This reduced overhead time by as much as 90% since repetitive tasks such as client spec modifications, disk space checking, and file syncing are now done automatically.</li>
+					<li>Reduced confusion by consolidating applications with similar functions and implementing setup wizards to simplify the training process.</li>
+					<li>All tools were developed in C#/WPF with MySQL being the backend database.</li>
+				</ul>
+			</div>
+		</div>
 		
-		<section id="slide-5" class="homeSlide">
-			<div class="bcg">
-				<div class="hsContainer">
-					<div class="hsContent"
-						data-bottom="opacity: 0;"
-						data-center="opacity: 1;"
-						data-anchor-target="#projectContent">
-						<div id="projectContent">
-							<h1>Projects</h1>
-							<a href="http://lmms.azurewebsites.net" target="#"><div id="lmmsLogo" class="companyLogo"></div></a>
-							<a href="https://play.google.com/store/apps/details?id=com.dyang.fourband" target="#"><div id="resistorLogo" class="companyLogo"></div></a>
-						</div>
-					</div>
-				</div>
+		<div class="apple_overlay" id="blackberryOverlay">
+			<div class="overlay_logo">
+				<img src="images/blackberry_min.png" />
 			</div>
-		</section>
-	</main>
-	
-	<!-- overlay for the first trigger. id matches the rel- attribute -->
-	<div class="apple_overlay" id="capcomOverlay">
-		<div class="overlay_logo">
-			<img src="images/capcom_min.png" />
+			<div class="details">
+				<h2>Software Developer, Co-op</h2>
+				<ul>
+					<li>Designed and developed an ASP.NET MVC web application that is used by the security department to evaluate the risks of adding new features to future versions of BlackBerry 10.</li>
+					<li>Streamlined user experience by using jQuery Ajax along with Telerik to allow users to update risk details and receive real time feedbacks. This allowed teams around the world to collaborate together on resolving security issues.</li>
+					<li>Developed an indexing system in C# that scans the entire source code repository and indexes the code to allow security researchers to easily identify vulnerabilities.</li>
+					<li>Took initiative to present the developed applications on behalf of the team to other teams.</li>
+					<li>Received the employee recognition award in addition to an outstanding co-op evaluation.</li>
+				</ul>
+			</div>
 		</div>
-		<div class="details">
-			<h2>Software Engineer, Co-op</h2>
-			<ul>
-				<li>Enhanced the search engine in the game editor by implementing arithmetic expression parsers to allow for complex search queries. As the search function is frequently used, this significantly reduced unnecessary time wasted.</li>
-				<li>Developed and designed an application that dynamically manages perforce client specs and workspace files based on the user's roles and projects. This reduced overhead time by as much as 90% since repetitive tasks such as client spec modifications, disk space checking, and file syncing are now done automatically.</li>
-				<li>Reduced confusion by consolidating applications with similar functions and implementing setup wizards to simplify the training process.</li>
-				<li>All tools were developed in C#/WPF with MySQL being the backend database.</li>
-			</ul>
+		
+		<div class="apple_overlay" id="amdOverlay">
+			<div class="overlay_logo">
+				<img src="images/amd_min.png" />
+			</div>
+			<div class="details">
+				<h2>Memory Qualification Engineer, Co-op</h2>
+				<ul>
+					<li>Tuned graphic voltage tables to ensure stability and optimal performance.</li>
+					<li>Acquired solid understanding of graphic ASIC/memory interfaces.</li>
+					<li>Developed programs to compile results; helped reduce project time by around 10%.</li>
+					<li>Performed signal integrity tests on GDDR5 graphic memory.</li>
+				</ul>
+			</div>
 		</div>
+		
+		<div class="apple_overlay" id="ibmOverlay">
+			<div class="overlay_logo">
+				<img src="images/ibm_min.png" />
+			</div>
+			<div class="details">
+				<h2>WebSphere Install Test Developer, Co-op</h2>
+				<ul>
+					<li>Developed and maintained an automation framework used to verify installations of new patches for WebSphere Application Server using Java and Ant scripts.</li>
+					<li>Enabled support for future versions of WebSphere by removing hard-coded references and abstracting code. This improved the flexibility of the framework to include different versions of WebSphere.</li>
+					<li>Designed and implemented code to enable concurrency when testing WebSphere patches. Multi-threading code was used to ensure patch generation and installation can be handled simultaneously.</li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="apple_overlay" id="scotiaOverlay">
+			<div class="overlay_logo">
+				<img src="images/scotia_min.png" />
+			</div>
+			<div class="details">
+				<h2>Programmer Analyst, Co-op</h2>
+				<ul>
+					<li>Worked with executives, developers and QA to develop a J2EE application used to analyse financial trends of the market.</li>
+					<li>Assisted in the web development of www.scotiamanagedcompanies.com using Java and jQuery, specifically pages of each fund.</li>
+					<li>Developed and completed a data management module to track bank data revisions using Java and Oracle SQL.</li>
+					<li>Received outstanding evaluation as a result of the work done in the J2EE web application.</li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="apple_overlay" id="bronteOverlay">
+			<div class="overlay_logo">
+				<img src="images/bronte_min.png" />
+			</div>
+			<div class="details">
+				<h2>Web Programmer, Co-op</h2>
+				<ul>
+					<li>Took ownership and independently completed a CRM system that is used to manage a perspective student's information.</li>
+					<li>Used JavaScript along with JSP for presentation; Java and MySQL for backend.</li>
+				</ul>
+			</div>
+		</div>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
+		<script src="http://imagesloaded.desandro.com/imagesloaded.pkgd.min.js"></script>
+		<script type="text/javascript" src="javascripts/skrollr.min.js"></script>
+		<script type="text/javascript" src="javascripts/skrollr.menu.min.js"></script>
+		<script type="text/javascript" src="javascripts/jquery.backstretch.min.js"></script>
+		<script type="text/javascript" src="javascripts/custom.js"></script>
 	</div>
-	
-	<div class="apple_overlay" id="blackberryOverlay">
-		<div class="overlay_logo">
-			<img src="images/blackberry_min.png" />
-		</div>
-		<div class="details">
-			<h2>Software Developer, Co-op</h2>
-			<ul>
-				<li>Designed and developed an ASP.NET MVC web application that is used by the security department to evaluate the risks of adding new features to future versions of BlackBerry 10.</li>
-				<li>Streamlined user experience by using jQuery Ajax along with Telerik to allow users to update risk details and receive real time feedbacks. This allowed teams around the world to collaborate together on resolving security issues.</li>
-				<li>Developed an indexing system in C# that scans the entire source code repository and indexes the code to allow security researchers to easily identify vulnerabilities.</li>
-				<li>Took initiative to present the developed applications on behalf of the team to other teams.</li>
-				<li>Received the employee recognition award in addition to an outstanding co-op evaluation.</li>
-			</ul>
-		</div>
-	</div>
-	
-	<div class="apple_overlay" id="amdOverlay">
-		<div class="overlay_logo">
-			<img src="images/amd_min.png" />
-		</div>
-		<div class="details">
-			<h2>Memory Qualification Engineer, Co-op</h2>
-			<ul>
-				<li>Tuned graphic voltage tables to ensure stability and optimal performance.</li>
-				<li>Acquired solid understanding of graphic ASIC/memory interfaces.</li>
-				<li>Developed programs to compile results; helped reduce project time by around 10%.</li>
-				<li>Performed signal integrity tests on GDDR5 graphic memory.</li>
-			</ul>
-		</div>
-	</div>
-	
-	<div class="apple_overlay" id="ibmOverlay">
-		<div class="overlay_logo">
-			<img src="images/ibm_min.png" />
-		</div>
-		<div class="details">
-			<h2>WebSphere Install Test Developer, Co-op</h2>
-			<ul>
-				<li>Developed and maintained an automation framework used to verify installations of new patches for WebSphere Application Server using Java and Ant scripts.</li>
-				<li>Enabled support for future versions of WebSphere by removing hard-coded references and abstracting code. This improved the flexibility of the framework to include different versions of WebSphere.</li>
-				<li>Designed and implemented code to enable concurrency when testing WebSphere patches. Multi-threading code was used to ensure patch generation and installation can be handled simultaneously.</li>
-			</ul>
-		</div>
-	</div>
-	
-	<div class="apple_overlay" id="scotiaOverlay">
-		<div class="overlay_logo">
-			<img src="images/scotia_min.png" />
-		</div>
-		<div class="details">
-			<h2>Programmer Analyst, Co-op</h2>
-			<ul>
-				<li>Worked with executives, developers and QA to develop a J2EE application used to analyse financial trends of the market.</li>
-				<li>Assisted in the web development of www.scotiamanagedcompanies.com using Java and jQuery, specifically pages of each fund.</li>
-				<li>Developed and completed a data management module to track bank data revisions using Java and Oracle SQL.</li>
-				<li>Received outstanding evaluation as a result of the work done in the J2EE web application.</li>
-			</ul>
-		</div>
-	</div>
-	
-	<div class="apple_overlay" id="bronteOverlay">
-		<div class="overlay_logo">
-			<img src="images/bronte_min.png" />
-		</div>
-		<div class="details">
-			<h2>Web Programmer, Co-op</h2>
-			<ul>
-				<li>Took ownership and independently completed a CRM system that is used to manage a perspective student's information.</li>
-				<li>Used JavaScript along with JSP for presentation; Java and MySQL for backend.</li>
-			</ul>
-		</div>
-	</div>
-	
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
-	<script src="http://imagesloaded.desandro.com/imagesloaded.pkgd.min.js"></script>
-	<script type="text/javascript" src="javascripts/skrollr.min.js"></script>
-	<script type="text/javascript" src="javascripts/skrollr.menu.min.js"></script>
-	<script type="text/javascript" src="javascripts/custom.js"></script>
 </body>
 </html>
