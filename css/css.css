@@ -92,8 +92,7 @@ h2 {
 section {
 	opacity: 0;
 }
-.loaded section,
-.no-js section {
+.loaded section {
 	opacity: 1;
 	-webkit-transition: opacity 300ms ease-out;
 	-moz-transition: opacity 300ms ease-out;
