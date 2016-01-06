@@ -7,7 +7,6 @@
   <link rel="stylesheet" type="text/css" href="lib/bootstrap/dist/css/bootstrap.min.css" >
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
   <link rel="stylesheet" type="text/css" href="css/site.css">
-  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC' rel='stylesheet' type='text/css'>
 </head>
 <body class="loading" data-spy="scroll" data-target="#navbar-nav-container">
   <div class="navbar navbar-inverse navbar-fixed-top">
@@ -26,12 +25,13 @@
           <ul class="nav navbar-nav">
             <li><a href="#home-page">Home</a></li>
             <li><a href="#experience-page">Experience</a></li>
+            <li><a href="#project-page">Projects</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <section id="home-page" class="homeSlide">
+  <section id="home-page" class="home-slide">
     <div class="bcg">
       <div id="intro-container" class="page-content-box">
         <div id="intro-name">Hello, I'm Danny.</div>
@@ -39,23 +39,34 @@
       </div>
     </div>
   </section>
-  <section id="experience-page" class="homeSlide">
+  <section id="experience-page" class="home-slide">
     <div class="bcg">
       <div id="experience-content" class="page-content-box">
       </div>
       <div id="experience-bar">
-        <div id="sapLogo" class="company-logo" data-company="sap"></div>
-        <div id="capcomLogo" class="company-logo" data-company="capcom"></div>
-        <div id="blackberryLogo" class="company-logo" data-company="blackberry"></div>
-        <div id="amdLogo" class="company-logo" data-company="amd"></div>
-        <div id="ibmLogo" class="company-logo" data-company="ibm"></div>
-        <div id="scotiaLogo" class="company-logo" data-company="scotia"></div>
-        <div id="bronteLogo" class="company-logo" data-company="bronte"></div>
+        <div id="sapLogo" class="company-logo" data-content="sap" data-bg="images/sap-bg.jpg"></div>
+        <div id="capcomLogo" class="company-logo" data-content="capcom" data-bg="images/capcom-bg.jpg"></div>
+        <div id="blackberryLogo" class="company-logo" data-content="blackberry" data-bg="images/blackberry-bg.jpg"></div>
+        <div id="amdLogo" class="company-logo" data-content="amd" data-bg="images/amd-bg.jpg"></div>
+        <div id="ibmLogo" class="company-logo" data-content="ibm" data-bg="images/ibm-bg.png"></div>
+        <div id="scotiaLogo" class="company-logo" data-content="scotia" data-bg="images/scotia-bg.jpg"></div>
+        <div id="bronteLogo" class="company-logo" data-content="bronte" data-bg="images/bronte-bg.jpg"></div>
       </div>
     </div>
   </section>
-  <div class="job-description">
-    <div data-company="sap">
+  <section id="project-page" class="home-slide">
+    <div class="bcg">
+      <div id="project-content" class="page-content-box">
+      </div>
+      <div id="experience-bar">
+        <div id="pfLogo" class="company-logo" data-content="pf" data-bg="images/pf-bg.jpg"></div>
+        <div id="resistorLogo" class="company-logo" data-content="resistor" data-bg="images/resistor-bg.jpg"></div>
+        <div id="lmmsLogo" class="company-logo" data-content="lmms" data-bg="images/lmms-bg.jpg"></div>
+      </div>
+    </div>
+  </section>
+  <div class="content-description">
+    <div data-content="sap">
       <h2>Software Developer 2</h2>
       <ul>
         <li>Full Stack Developer for SAP Jam, an enterprise social networking application with emphasize on collaboration.</li>
@@ -65,7 +76,7 @@
         <li>Developed draft and auto-save capabilities for SAP Jam text editors, greatly enhancing usability while reducing the occurrences of data loss when editing contents such as wiki pages or blogs.</li>
       </ul>
     </div>
-    <div data-company="capcom">
+    <div data-content="capcom">
       <h2>Software Engineer, Co-op</h2>
       <ul>
         <li>Enhanced the search engine in the game editor by implementing arithmetic expression parsers to allow for complex search queries. As the search function is frequently used, this significantly reduced unnecessary time wasted.</li>
@@ -73,7 +84,7 @@
         <li>Reduced confusion by consolidating applications with similar functions and implementing setup wizards to simplify the training process.</li>
       </ul>
     </div>
-    <div data-company="blackberry">
+    <div data-content="blackberry">
       <h2>Software Developer, Co-op</h2>
       <ul>
         <li>Designed and developed an ASP.NET MVC web application that is used by the security department to evaluate the risks of adding new features to future versions of BlackBerry 10.</li>
@@ -83,7 +94,7 @@
         <li>Received the employee recognition award in addition to an outstanding co-op evaluation.</li>
       </ul>
     </div>
-    <div data-company="amd">
+    <div data-content="amd">
       <h2>Memory Qualification Engineer, Co-op</h2>
       <ul>
         <li>Tuned graphic voltage tables to ensure stability and optimal performance.</li>
@@ -92,14 +103,14 @@
         <li>Performed signal integrity tests on GDDR5 graphic memory.</li>
       </ul>
     </div>
-    <div data-company="ibm">
+    <div data-content="ibm">
       <h2>WebSphere Install Test Developer, Co-op</h2>
       <ul>
         <li>Developed and maintained an automation framework used to verify installations of new patches for WebSphere Application Server using Java and Ant scripts.</li>
         <li>Enabled support for future versions of WebSphere by removing hard-coded references and abstracting code. This improved the flexibility of the framework to include different versions of WebSphere.</li>
       </ul>
     </div>
-    <div data-company="scotia">
+    <div data-content="scotia">
       <h2>Programmer, Co-op</h2>
       <ul>
         <li>Worked with executives, developers and QA to develop a J2EE application used to analyse financial trends of the market.</li>
@@ -108,20 +119,44 @@
         <li>Received outstanding evaluation as a result of the work done in the J2EE web application.</li>
       </ul>
     </div>
-    <div data-company="bronte">
+    <div data-content="bronte">
       <h2>Web Programmer, Co-op</h2>
       <ul>
         <li>Took ownership and independently completed a CRM system that is used to manage a perspective student's information.</li>
         <li>Used JavaScript along with JSP for presentation; Java and MySQL for backend.</li>
       </ul>
     </div>
+    <div data-content="pf">
+      <h2>PhotoFinder</h2>
+      <div>
+        <span>PhotoFinder is a mini-project of mine for discovering Facebook and Instagram's API. This website allows users to view their Facebook and Instagram photos in one place. What makes this website special is that users have the ability to filter their photos based on uploader, month and year, and location. Further, users are able to sort their photos, both Facebook and Instagram, by like counts or by most recent date.</span>
+      </div>
+      <div class="project-links">
+        <a href="http://danny6514.github.io/PhotoFinder" target="_blank">Link</a>
+      </div>
+    </div>
+    <div data-content="resistor">
+      <h2>Resistor Tool - Android</h2>
+      <div>
+        <span>PhotoFinder is a mini-project of mine for discovering Facebook and Instagram's API. This website allows users to view their Facebook and Instagram photos in one place. What makes this website special is that users have the ability to filter their photos based on uploader, month and year, and location. Further, users are able to sort their photos, both Facebook and Instagram, by like counts or by most recent date.</span>
+      </div>
+      <div class="project-links">
+        <a href="https://play.google.com/store/apps/details?id=com.dyang.fourband" target="_blank">Link</a>
+      </div>
+    </div>
+    <div data-content="lmms">
+      <h2>Tremor Monitoring System</h2>
+      <div>
+        <span>This ASP.NET MVC 4 project creates a long term monitoring system that continuously monitors the frequency, pattern and severity of a patient’s tremors in the legs. This project would allow doctors to monitor the tremors of a patient by measuring their leg movements, such as acceleration, speed and orientation. The doctor can use the measured data to provide better diagnostics and treatments for Parkinson's disease patients.</span>
+      </div>
+    </div>
   </div>
-  <script type="text/javascript" src="lib/jquery/dist/jquery-2.1.4.js"></script>
-  <script type="text/javascript" src="lib/bootstrap/dist/js/bootstrap.js"></script>
-  <script type="text/javascript" src="lib/imagesloaded/dist/imagesloaded.pkgd.js"></script>
-  <script type="text/javascript" src="lib/jquery-mousewheel/dist/jquery.mousewheel.js"></script>
-  <script type="text/javascript" src="lib/jquery-backstretch/dist/jquery.backstretch.js"></script>
-  <script type="text/javascript" src="lib/underscore/dist/underscore.js"></script>
+  <script type="text/javascript" src="lib/jquery/dist/jquery-2.1.4.min.js"></script>
+  <script type="text/javascript" src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="lib/imagesloaded/dist/imagesloaded.pkgd.min.js"></script>
+  <script type="text/javascript" src="lib/jquery-mousewheel/dist/jquery.mousewheel.min.js"></script>
+  <script type="text/javascript" src="lib/jquery-backstretch/dist/jquery.backstretch.min.js"></script>
+  <script type="text/javascript" src="lib/underscore/dist/underscore-min.js"></script>
   <script type="text/javascript" src="js/site.js"></script>
 </body>
 </html>
