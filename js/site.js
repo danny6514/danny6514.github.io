@@ -7,7 +7,7 @@ $html = $('html');
 $("#home-page .bcg").backstretch("images/home-page-bg.jpg");
 $("#experience-page .bcg").backstretch("images/sap-bg.jpg");
 $("#project-page .bcg").backstretch("images/project-bg.jpg");
-$("#contact-page .bcg").backstretch("images/contact-bg.jpg");
+$("#contact-page .bcg").backstretch("images/contact-me-bg.jpg");
 
 //FadeIn all sections   
 $body.imagesLoaded( function() {
