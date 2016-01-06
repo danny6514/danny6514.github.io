@@ -173,7 +173,8 @@ body.loaded .navbar {
 }
 
 .site-link,
-.site-link:hover {
+.site-link:hover,
+.site-link:focus {
   color: white;
   text-decoration: underline;
 }
