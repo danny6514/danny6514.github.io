@@ -71,6 +71,7 @@ body.loaded .navbar {
   font-size: 18px;
 }
 
+#contact-content,
 #project-content,
 #experience-content {
   margin: 50px;
@@ -86,6 +87,10 @@ body.loaded .navbar {
 
 #project-content.has-content,
 #experience-content.has-content {
+  opacity: 1;
+}
+
+#contact-content {
   opacity: 1;
 }
 
@@ -167,7 +172,8 @@ body.loaded .navbar {
   margin-top: 10px;
 }
 
-.project-links a {
+.site-link,
+.site-link:hover {
   color: white;
   text-decoration: underline;
 }
