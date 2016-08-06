@@ -47,11 +47,17 @@ body.loaded .navbar {
   margin: 0 auto;
 }
 
+.home-slide {
+  text-align: center;
+}
+
 .page-content-box {
   background: rgba(0, 0, 0, 0.5);
   padding: 40px 40px 45px 40px;
   opacity: 0;
   color: white;
+  text-align: left;
+  width: 800px;
 
   -webkit-transition: opacity 0.8s ease-out;
   -moz-transition: opacity 0.8s ease-out;
