@@ -80,8 +80,7 @@ body.loaded .navbar {
 #contact-content,
 #project-content,
 #experience-content {
-  margin: 50px;
-  margin-top: 200px;
+  margin-top: 10%;
   display: inline-block;
   opacity: 0
 }
