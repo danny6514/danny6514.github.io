@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "abb2670e23fc2faf7ba7fe8c8667c51693682341e8d1b827663b8698b891071b"
-
-[[files]]
 file = "config/AqMods/caracal.config"
-hash = "982ccaf059434745884740657609c342d7426153f69cf8cf1a91ef2246bf9bbd"
+hash = "b1e7df5c21928e994ea6532e754afddf90f68955dc1fe3cb768976fe053b5eb9"
 
 [[files]]
 file = "config/adventurez.json5"
