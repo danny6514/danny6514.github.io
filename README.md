@@ -16,3 +16,5 @@ Setup instructions:
 11. If this is the first time starting, it will prompt you to log in to your microsoft/mojang account, please do that, and close the settings window when done.
 12. Minecraft should download then open --> Click "Multiplayer" --> "Add Server" --> Server address: newwestsucks.duckdns.org:25565 --> "Done"
 13. Double click the newly added server, and it should connect.
+
+Going forward, all you need to do is open MultiMC and click "1.18.2-modded" (step 13) to play.
