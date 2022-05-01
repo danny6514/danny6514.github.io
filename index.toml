@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "2b621412f6ca6626372f14c3d7c72bd0bf7dfa34227afcdc60a8030e99c11aa3"
-
-[[files]]
 file = "mods/additional-structures-fabric.toml"
 hash = "7c15cd7f0b917aa60e334d0f434395ac5e67cd2235654c0c5f20df7105f32021"
 metafile = true
