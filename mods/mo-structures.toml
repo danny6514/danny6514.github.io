@@ -1,0 +1,13 @@
+name = "Mo' Structures (Fabric)"
+filename = "mostructures-1.4.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3748/528/mostructures-1.4.1+1.18.2.jar"
+hash-format = "sha1"
+hash = "fd0a149eeda2a90eb02fe5b21141063c0e3188c2"
+
+[update]
+[update.curseforge]
+file-id = 3748528
+project-id = 378266

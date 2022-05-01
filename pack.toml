@@ -1,0 +1,11 @@
+name = "Danny's Modpack"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85c4252e34439b3676c2ae3aa0885c4d3194dc1dcbbd96e52dbc188f67fdbf7e"
+
+[versions]
+fabric = "0.14.3"
+minecraft = "1.18.2"

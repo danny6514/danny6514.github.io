@@ -1,0 +1,13 @@
+name = "BCLib"
+filename = "bclib-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3772/55/bclib-1.4.5.jar"
+hash-format = "sha1"
+hash = "90572788fcc353d69d603e9f213f21d30de4dd6f"
+
+[update]
+[update.curseforge]
+file-id = 3772055
+project-id = 495191

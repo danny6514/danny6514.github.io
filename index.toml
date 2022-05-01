@@ -1,0 +1,256 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".DS_Store"
+hash = "2b621412f6ca6626372f14c3d7c72bd0bf7dfa34227afcdc60a8030e99c11aa3"
+
+[[files]]
+file = "mods/additional-structures-fabric.toml"
+hash = "7c15cd7f0b917aa60e334d0f434395ac5e67cd2235654c0c5f20df7105f32021"
+metafile = true
+
+[[files]]
+file = "mods/advancements-debug.toml"
+hash = "6555916b5d601bdbc0e7f1feba7fc2c82447743963c00c5ebb5f40ca1606f143"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.toml"
+hash = "0991ace0473b5dc90ae3cb55efab4c01734794dbebeb435fdc81e8aee4eda44e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.toml"
+hash = "e31f47324e36a7d7353f179f7dc081e446a6f1c9130b5b6e2eb0c420a6d89484"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.toml"
+hash = "f16e09ced52586796952de5d6bf341b4ae079c1bed915612fb82c297bb0cb9e3"
+metafile = true
+
+[[files]]
+file = "mods/bclib.toml"
+hash = "1ab7c2b9eed4b42f808386dcefef47716cc9ed9aba05a59052e6f315be75fcd0"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "af941da36c5000193fa6fdfb1364783f874ad1710a87ae2a99420ea41ef6b284"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "030cb892a66b50166fac5f8ef1d23b947a88aa5c083955cc56d88cf15b840b03"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.toml"
+hash = "30e1835d475de4077be53d9c1bc00938c2661562f6146699a9731add29ad733a"
+metafile = true
+
+[[files]]
+file = "mods/caracal-mod.toml"
+hash = "54c473167c0ddf0aa7d7a9c4280b1f15dcebc5a313d914db2503fa740953f750"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.toml"
+hash = "19358b0e2ac72a0921d8d54226497d21ae81bfe43a6c001b71de5ef70871f5c8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-legacy.toml"
+hash = "bb42f3c6ab8bebb1686f2f1c545b2939da9d9d3421e3298bcbdd1b4c225ba400"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "8267db448b826bea1ef55b5a67afece8f04800ee09db1913972dd07ac4727eca"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.toml"
+hash = "1693ed6557e0cca26c2e523277d56a1887ede668c475cb9266d19b5371e6eb51"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "d1f9c38dd3b3fc673c32f232e72b177e4f5ce19d712593957518fcdd499791ca"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare-fabric.toml"
+hash = "100f1208b3017212758b209afea2fe63ac0520d4fbc91e3f3eab927a3a09ec52"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
+metafile = true
+
+[[files]]
+file = "mods/faithful-64x.toml"
+hash = "42ad9420ad311f20d388acc870e42c90819f1765d04499904491835b66032856"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-fabric.toml"
+hash = "9f4e5056e9fa466ce8b643f20656c107198dafa4adecef099bed25463f5e61bd"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.toml"
+hash = "11d33a8375269eec0a539fb5409499a245982e58fbaa41376e9dada82cb83b48"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.toml"
+hash = "3a20d981ba3cd7566ea377e2118f0276af978c235df732df41c3d3d4b11cafbd"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "1a1d3f1b6b1b3fcebcd986dc0f6635d3ae3ecb18375403190e381e4f54881b00"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-fabric.toml"
+hash = "c93c0fa2af669fd48d10a96dce1fc326639c2c6a963b1eda84256b6e37087c5c"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion-fabric.toml"
+hash = "9073a2bb82db376e2dffb8fbbd1a4849babafe06f23c4c5431b6c88d55987902"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "f8b55cf573545a31ba3fcd99b8005513aa00c34e73a53493ed55c3e5be547db0"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs-fabric.toml"
+hash = "9aaf79b4f4dc83c72bc46d65606cb9708aa27f8336ba628f4ff3b5f3f3f62c88"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "328a218231b95e91acfff1b841ab32b4039cb1bbfdc17f8357fabc01469d8cd2"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.toml"
+hash = "eb5a1ded35dbdd746d1e9d1808a1a74a18dc529d90e341ed3ce8651d420f4754"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers-fabric.toml"
+hash = "9fab6876450d820749571f5c78b36098c0a21de67717e8917533eb4caa53fd14"
+metafile = true
+
+[[files]]
+file = "mods/motschens-better-leaves.toml"
+hash = "ba49059e69e85014c0ffac04781ca374f1b77f52e752eed720f38aecdd62dd1b"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.toml"
+hash = "aa90adc18fba825f504c41ac3de0c04473e908d1c2e439bd0257020e0a01f775"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "53e9d14b71148e5d19e33e8e6bdad5b275fdfb94c60b2ea73b181d14faf9a8b3"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "cfc911e385551cd44cdf5aec60d677d7d5078b86c6c9e193895a512ae88b0dc5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "629cba9c7cd4bfbb4f5be04e7d2ebfb71ef1c44466c7a1614b9c31b78b97f7a1"
+metafile = true
+
+[[files]]
+file = "mods/stoneholm.toml"
+hash = "a8bd248d882ca33a1b741946dd319004b63879f4f44bcde1ffdbb265952e18aa"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.toml"
+hash = "186b69f82a549ae21109ec9634e6907ed14506713464196233e63bedfff5a8f3"
+metafile = true
+
+[[files]]
+file = "mods/visuality.toml"
+hash = "351cb408b85cfed573d6c6b48895d990e14ffaaf2ebcd61870417b995b2e87dd"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "9d3408b3e3ec315c506e5079b231f9f114bcdbab737c8b36103f14fd1bec40ab"
+
+[[files]]
+file = "resourcepacks/Better-Leaves-6.2-1.13+.zip"
+hash = "583ba4e4328a27b7c81353edf9aa1943143d12780f41316038aa7071a744865f"
+
+[[files]]
+file = "resourcepacks/Faithful+64x+beta+4.zip"
+hash = "70aa87938faad7201a31637fa8879f5d6be55e4520df8a31a761874e9f744435"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.4.zip"
+hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"
