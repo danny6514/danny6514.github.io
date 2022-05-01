@@ -21,10 +21,10 @@ Going forward, all you need to do is open MultiMC and click "1.18.2-modded" (ste
 
 ## Shaders
 
-This modpack comes with **Complementary Shader**, it is disabled by default as it is GPU-hungry. For those with a more powerful GPU, turning it on will significantly improve the graphics. To enable: Press ESC in game --> Options --> Video Settings --> Shader Packs --> Select "ComplementaryShaders_vx.x.zip" then click "Done"
+This modpack comes with (Complementary Shader)[https://www.curseforge.com/minecraft/customization/complementary-shaders], it is disabled by default as it is GPU-hungry. For those with a more powerful GPU, turning it on will significantly improve the graphics. To enable: Press ESC in game --> Options --> Video Settings --> Shader Packs --> Select "ComplementaryShaders_vx.x.zip" then click "Done"
 
 Feel free to also browse around for other shaders, as long as it is compatible with 1.18.2 and Iris (we are not using Optifine).
 
 ## Resource Packs
 
-This modpack comes with two resource packs: Faithful 64x and Better Leaves. Again, feel free to replace as you see fit: https://www.curseforge.com/minecraft/texture-packs?filter-game-version=2020709689%3A9008&filter-sort=4
+This modpack comes with two resource packs: [Faithful 64x](https://www.curseforge.com/minecraft/texture-packs/faithful-64x) and [Better Leaves](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves). Again, feel free to replace as you see fit: https://www.curseforge.com/minecraft/texture-packs?filter-game-version=2020709689%3A9008&filter-sort=4
