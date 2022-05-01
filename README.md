@@ -14,5 +14,5 @@ Setup instructions:
 9. Add Instance --> Import from zip --> Enter "https://danny6514.github.io/1.18.2-modded.zip" --> Click "OK"
 10. Double click on 1.18.2-modded
 11. If this is the first time starting, it will prompt you to log in to your microsoft/mojang account, please do that, and close the settings window when done.
-12. Minecraft should download then open --> Click "Multiplayer" --> "Add Server" --> Server address: 207.6.206.30:25565 --> "Done"
+12. Minecraft should download then open --> Click "Multiplayer" --> "Add Server" --> Server address: newwestsucks.duckdns.org:25565 --> "Done"
 13. Double click the newly added server, and it should connect.
