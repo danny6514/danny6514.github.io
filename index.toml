@@ -419,6 +419,16 @@ hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
+file = "mods/ebe.toml"
+hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "d589ece37d260dbedc284617fbe5ad193a42eee6d76d91f6583f4439cba6697e"
+metafile = true
+
+[[files]]
 file = "mods/equipment-compare-fabric.toml"
 hash = "23bfea2b265f800540890faf6542b0db3513e7001157c7c0d8679d74a6810530"
 metafile = true
