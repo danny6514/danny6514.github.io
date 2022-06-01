@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "cddfd55242436c0e571f7f3620d997a800d65e8aa17e6a8e866b48e03019d0de"
+hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.toml"
-hash = "e31f47324e36a7d7353f179f7dc081e446a6f1c9130b5b6e2eb0c420a6d89484"
+hash = "1f11e5764ec8585bd0edb068010c47cae9162a8740ab87506d52c6aa81ac48d5"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "1ab7c2b9eed4b42f808386dcefef47716cc9ed9aba05a59052e6f315be75fcd0"
+hash = "4e0ac675c33d74427cd26d77d93cd67c8954d232e9ac7f94ea101f34f690303e"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.toml"
-hash = "30e1835d475de4077be53d9c1bc00938c2661562f6146699a9731add29ad733a"
+hash = "ce8e4f2fb11a384bc028ade377fceb8ad4ac577182681406129c18a8b4756f14"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
+hash = "a580d407e80e0327592711f5deb1e34730e852dbab2d3de6dbd684a40e70fcc2"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
+hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
+hash = "696d16639ad01496fc4f99045b025492954099367538d46dbaf98dd9a0f7c4d9"
 metafile = true
 
 [[files]]
@@ -570,7 +570,12 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "4362cbd1def16c3de4cc531c3de9fe64aad645d68af82ecf86e33376a6cfe451"
+hash = "39b99be9a6982d4af4cc9e99eb80d829036a65020c4de3e3a21dc1657b0c6eda"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
 
 [[files]]
@@ -585,12 +590,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "53e9d14b71148e5d19e33e8e6bdad5b275fdfb94c60b2ea73b181d14faf9a8b3"
+hash = "26c9b212e18fd43fdc1804aa03b2e79aeaf8e91d7654be33bdd8fe73984f7d8d"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "7961c3676de7f6c4ac7360a492b8337cae1025a94119329132fbee6f392f153e"
+hash = "ed2cb851bdb50c0e65842f1e256ad2fff898b6a4a61caa7ac85dc7beeca47321"
 metafile = true
 
 [[files]]
@@ -605,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.toml"
-hash = "186b69f82a549ae21109ec9634e6907ed14506713464196233e63bedfff5a8f3"
+hash = "f0f0e47bdb155db22fab44bd6e0b946e85d4632bc3aafa03055216ce34f244ef"
 metafile = true
 
 [[files]]
