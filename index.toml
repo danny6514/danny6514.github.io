@@ -519,6 +519,36 @@ hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "ebbb66ec2c5d8ec1cbccccc9d93ed170409a0f4abaefda5dac0b921159ce5dac"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "32858eb8743b7e6671a74eaf8ae13f9726e6e7f63f6d0d028d41a24e319e6df9"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "7b573c35344d83608f37ae1c67c90533e2cdc238597212faf540f22780ca8a92"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "cae3b29f791d046f675e09a678916f7c2918ecf4029ef460610abdfc1fea3af5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "b7a8ed96d5a726b7e49166e9e236050abb381100bf2e4d000d37088e56ef3871"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "efae4449e802f00e3dd79446adcb305d43f3f2471e48ebde9e08ef531d95b434"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.toml"
 hash = "fe25905e270da545aaea6f16b998ccad1b031f1f7f8acd5982c56b682ba683e0"
 metafile = true
@@ -546,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod.pw.toml"
+hash = "b9fc206eb70888df85b5c37f52b1c5cb8ff21067e9b8dae7f59cc315b28dd4ad"
 metafile = true
 
 [[files]]
