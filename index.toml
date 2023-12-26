@@ -269,6 +269,11 @@ hash = "4712bfa42f0cfd835c94a613de9eef80d5c34e0a9562a223f1c6273bebbcfc40"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "67c62d5ece7f3e8329e373cc5a1fe65a3c77e70a6b08251a8bc35d7648f28185"
 metafile = true
