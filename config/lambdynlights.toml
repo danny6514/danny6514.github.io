@@ -41,6 +41,13 @@ mode = "fancy"
 				illusioner = true
 				evoker = true
 				zombie_villager = true
+				villager = true
+				cat = true
+				iron_golem = true
+				creeper = true
+				pig = true
+				drowned = true
+				salmon = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				cave_creeper = true
@@ -49,4 +56,12 @@ mode = "fancy"
 
 			[light_sources.settings.entities.promenade]
 				lush_creeper = true
+				duck = true
+
+			[light_sources.settings.entities.naturalist]
+				elephant = true
+				snail = true
+				rhino = true
+				zebra = true
+				cardinal = true
 
