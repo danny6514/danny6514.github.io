@@ -467,11 +467,6 @@ hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.toml"
-hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "8aef49379849c5988efad45f8212a8995ab8e8a96021ce4e922e05027efac56b"
 metafile = true
