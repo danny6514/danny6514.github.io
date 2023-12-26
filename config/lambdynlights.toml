@@ -48,15 +48,21 @@ mode = "fancy"
 				pig = true
 				drowned = true
 				salmon = true
+				painting = true
+				armor_stand = true
+				item_frame = true
+				enderman = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				cave_creeper = true
 				snowy_creeper = true
 				dripstone_creeper = true
+				ocean_creeper = true
 
 			[light_sources.settings.entities.promenade]
 				lush_creeper = true
 				duck = true
+				sunken_skeleton = true
 
 			[light_sources.settings.entities.naturalist]
 				elephant = true
@@ -64,4 +70,10 @@ mode = "fancy"
 				rhino = true
 				zebra = true
 				cardinal = true
+				lion = true
+				vulture = true
+				bass = true
+
+			[light_sources.settings.entities.aqupd]
+				caracal = true
 

@@ -210,7 +210,7 @@ hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "d9fbc33d628db3a3a993005d49036457fb6020bd5597872b1b8e89377f7482e3"
+hash = "5eea0da46071b1d9253872d9eeff2a6f611232b8107722df08ac1e73a89e2a46"
 
 [[files]]
 file = "config/lithium.properties"
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0cf4ce0db17ab5faeda302548555471f4a586e6d6cbf2d8dd5716eacaa4aac4b"
+hash = "1d393fb7fe9e029c29cb50c45c339556a8c234a35ff3ff24e7047091f354bd86"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
@@ -728,6 +728,10 @@ metafile = true
 file = "resourcepacks/round-trees.pw.toml"
 hash = "689bb38115f4bf8aa5cc3bdac0963220ba5ba9e90cbf0c33656bf50c0fa429bd"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "15f515e5f1f923a9826498ef04709523c233995a879d3e4b3f2abc5ad5642cdf"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
