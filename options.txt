@@ -1,3 +1,3 @@
 fullscreen:true
-resourcePacks:["vanilla","Fabric Mods","file/Better-Leaves-6.2-1.13+.zip","file/Faithful+64x+beta+4.zip"]
+resourcePacks:["vanilla","fabric","cullleaves:smartleaves","file/Faithful 64x - Beta 9.zip","file/Better-Leaves-7.2-1.19+.zip"]
 skipMultiplayerWarning:true

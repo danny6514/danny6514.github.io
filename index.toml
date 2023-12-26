@@ -1,6 +1,282 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "cfcc5c69d5ad77f3d96ecf30e4621578ccc55129caeb819d4de0a4e46c62c8a6"
+
+[[files]]
+file = "config/AqMods/caracal.config"
+hash = "753b3922c852fb17eb2d6eacfa3475cf8561a4214d49e7515dca30b1f6191865"
+
+[[files]]
+file = "config/adventurez.json5"
+hash = "150438f1c9f49ab6a27ff9afe00fa76de43c6b7624ff0337f59ca3ac97a559ad"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/attributefix.json"
+hash = "700980e75cbdb4fadfa8ce9433da8c35d5baa41a12a32507edcc6485ed6f11f2"
+
+[[files]]
+file = "config/balm-common.out.toml"
+hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "411b3a2b814e30adfff46ba7c0e688c554028fd9f5887514b29eda9807399fd1"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "9425ab60f50afbcdc515d381edc1aa2b31f91f8a676fa5905af65d8bf62e4f1d"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "d5753557e4c0c3a46e0db647cde26306bf469833d8617ecd9142b165988050ea"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "911097f65456dd2fef99708fea429d7bcd87f7e9650260166c40df25ab9fbb63"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
+
+[[files]]
+file = "config/bosses_of_mass_destruction.json5"
+hash = "6bf64126b4f95b7f41c468ed61851b823a9fd02c6cb4b4cdf4736530af5bb820"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "03d08d3741d8e047a70c178dfdd0908ea7f33df0866cac10cd29d0b26d8711ea"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "5e3f81eaf47e986549316ec71ab9ed7a5ba6e89e6db4df6594885b50207af142"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/equipmentcompare-common.toml"
+hash = "734fe8681db1c7667c30d643dc43ed2a545694b655b78d07cd1fe059bd44cebf"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "fb0109d3f85a767e33bf475113ef8f50d44a038615e8917604f8c83e0cc5601b"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "b249e412ce89e914aa996324b65614d018d59977bd6c2e83bec20426688fa4db"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "1bdc7f88089b31a0ae83028746b34ae8613c9e5858ce5bc9f0a6fb4c026a2689"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "1d538c38befd8736fda5b60924dec105bfe68bf3dd01e7fd1c7bb66717bde8a5"
+
+[[files]]
+file = "config/iris.properties"
+hash = "133ec3e86c822826779c4e0fc3987ce39af4a012dfdec491c968023bf5a8efeb"
+
+[[files]]
+file = "config/kleeslabs-common.toml"
+hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "config/morevillagers.json"
+hash = "832818b27a76df025a408d353f3aada9195a0a6f0eed5269ddb795d65501078a"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "ccb8270a4af4f20ed1f839826e051c76c4c1017018a24ffcc21d3276cd7feb6d"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "151216347aa4531bab93625c18e324f1a6fae35563c6b9305c75ecf891a97d38"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "c5c01f22374f25f5fea5b65529605f1b8bb594c8168234d77cf5854e15de75e0"
+
+[[files]]
+file = "config/promenade/animals.json"
+hash = "a261533025ec0562fad9ea746f6257354f746a513c218a2a466b9917cec3edda"
+
+[[files]]
+file = "config/promenade/biomes.json"
+hash = "eab77da97d597534d1e930f52ad6a5de717e0d63fb3ac815658494d470e77030"
+
+[[files]]
+file = "config/promenade/monsters.json"
+hash = "e3275773d505428747891fad0ed170d6a1889130157acecafd66d7ebb52ff83a"
+
+[[files]]
+file = "config/promenade/world_features.json"
+hash = "5f7ee261d8eadd71bcbe465d60df130401510186b3ad9e02cb98fe7d5062b901"
+
+[[files]]
+file = "config/repurposed_structures.json"
+hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "2491e69dd3aac7247bf0bf3d36be659c95d2173421db1cc876577d86f6bd9787"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "8ffc788bf4d33b1955479d89bd081017d7de0e03e4fea432f07217dd086e6475"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "dde66d3f837c09321907199dbdd658604c162217228c250b807c907ec1f1cc89"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "515a81423ac49422eccc28c17295ca8c6c3b7df3a8b4143d8259d25d864e2a5d"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
+
+[[files]]
+file = "config/visuality.json"
+hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
+
+[[files]]
 file = "mods/3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
 hash = "23442876f9aa6e9b51851c65b71dfe827956785c76623b331f48eaf2cab503c1"
 
@@ -310,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9d3408b3e3ec315c506e5079b231f9f114bcdbab737c8b36103f14fd1bec40ab"
+hash = "db6228be027afd7751f55b715da1cc0530a6c36a09922a826f0fd84c51c0f603"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
