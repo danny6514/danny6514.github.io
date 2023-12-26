@@ -34,11 +34,11 @@ hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
 [[files]]
 file = "config/bclib/cache.json"
-hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+hash = "8f2eec2bd3ce5db2995a884c37fa4401b5d7ab943597a6d393407a334e659dd0"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "411b3a2b814e30adfff46ba7c0e688c554028fd9f5887514b29eda9807399fd1"
+hash = "0b1c4029a9d88239e1b26615587e4f15b203e86499d79b39104ca51a3c9e6a74"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -138,7 +138,7 @@ hash = "734fe8681db1c7667c30d643dc43ed2a545694b655b78d07cd1fe059bd44cebf"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "fb0109d3f85a767e33bf475113ef8f50d44a038615e8917604f8c83e0cc5601b"
+hash = "f975de9dee94cc0b5d9a5278c2fe67cc1d1ff9ba3bb75152e7109dd5051a6a2b"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -162,11 +162,11 @@ hash = "1bdc7f88089b31a0ae83028746b34ae8613c9e5858ce5bc9f0a6fb4c026a2689"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "1d538c38befd8736fda5b60924dec105bfe68bf3dd01e7fd1c7bb66717bde8a5"
+hash = "52745a429c2bc8729c660586b09e36561b22a0d29a72ad657229563073df56c7"
 
 [[files]]
 file = "config/iris.properties"
-hash = "133ec3e86c822826779c4e0fc3987ce39af4a012dfdec491c968023bf5a8efeb"
+hash = "1746bab262a8151455b65eee1bfa88184e44c128a08878bcf1b67b43a5ef8f2e"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "db6228be027afd7751f55b715da1cc0530a6c36a09922a826f0fd84c51c0f603"
+hash = "0cf4ce0db17ab5faeda302548555471f4a586e6d6cbf2d8dd5716eacaa4aac4b"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
