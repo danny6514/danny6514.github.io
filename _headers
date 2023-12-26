@@ -1,2 +1,5 @@
 /index.toml
 Cache-Control: no-cache
+
+/pack.toml
+Cache-Control: no-cache
