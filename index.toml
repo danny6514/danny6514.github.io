@@ -651,6 +651,11 @@ hash = "9d1736d4c11635a578721345bba0c529404a0a0147ceca7878bd5525657d6040"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true
+
+[[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "7a813714e0164862476829f0d36087842f999aee45a9fd1872e3529f241c2742"
 metafile = true
