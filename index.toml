@@ -133,8 +133,20 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
+file = "config/comforts-server.toml"
+hash = "70570a904102df93d5786953a4e819e398aab5554cc32a9bddf4febfe6b0b0b3"
+
+[[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+hash = "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
 
 [[files]]
 file = "config/cullleaves.json"
@@ -158,7 +170,7 @@ hash = "734fe8681db1c7667c30d643dc43ed2a545694b655b78d07cd1fe059bd44cebf"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ce504a2722d0f199c06675b8c32930131a8e636414c6c2e428208a9d0609ed37"
+hash = "15283fd9dbcceaaf60e028548d3aaedd1bdc56e78d22975c28ffd0906917a698"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -186,11 +198,11 @@ hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "eadb365fb25c9b5cd49ced258f603dff465788bfd3c77e951ec09fbbd6e08017"
+hash = "123b0fc8da92ebb6885f5683eb839e07879bca5270d5eb4496f1175c075fe330"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2b53ce9e3c1e896fecd39a7808ff5973914285f56cdc94f3d904ac472e149bed"
+hash = "639687e703730644db9366321ef3ac61e7457af1e003f542c9d36e0abb15f5af"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
@@ -198,7 +210,7 @@ hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "081b680414c8a5bc1113b032d9bf1124aef3040896a9bf12c2da355693495c2d"
+hash = "d9fbc33d628db3a3a993005d49036457fb6020bd5597872b1b8e89377f7482e3"
 
 [[files]]
 file = "config/lithium.properties"
@@ -219,6 +231,10 @@ hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
 [[files]]
 file = "config/morevillagers.json"
 hash = "832818b27a76df025a408d353f3aada9195a0a6f0eed5269ddb795d65501078a"
+
+[[files]]
+file = "config/naturalist.json"
+hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -303,6 +319,14 @@ hash = "515a81423ac49422eccc28c17295ca8c6c3b7df3a8b4143d8259d25d864e2a5d"
 [[files]]
 file = "config/terrablender.toml"
 hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "3aaa6ac8835dbbce97928c4d0d03f9957749a7a57a3f1668597310e9227900da"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "1f6cddbcb2d89fbcc774d7bdae9987ccb031ba8fe024307357076ca617b17eeb"
 
 [[files]]
 file = "config/visuality.json"
