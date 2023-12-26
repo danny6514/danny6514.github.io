@@ -244,11 +244,6 @@ hash = "8d0412794abda3c9eaf4c673d96a45fe6a635142b1e853555d6574406af02b23"
 metafile = true
 
 [[files]]
-file = "mods/motschens-better-leaves.toml"
-hash = "7a813714e0164862476829f0d36087842f999aee45a9fd1872e3529f241c2742"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
