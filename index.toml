@@ -661,6 +661,11 @@ hash = "7a813714e0164862476829f0d36087842f999aee45a9fd1872e3529f241c2742"
 metafile = true
 
 [[files]]
+file = "resourcepacks/round-trees.pw.toml"
+hash = "689bb38115f4bf8aa5cc3bdac0963220ba5ba9e90cbf0c33656bf50c0fa429bd"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
 hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 
