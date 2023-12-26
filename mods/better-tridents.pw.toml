@@ -1,0 +1,13 @@
+name = "Better Tridents [Forge & Fabric]"
+filename = "BetterTridents-v8.0.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f187c6f02bbc4a59821b7fe1f919c01bc4d14c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4707888
+project-id = 666941

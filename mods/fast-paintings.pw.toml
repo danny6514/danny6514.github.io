@@ -1,0 +1,13 @@
+name = "Fast Paintings"
+filename = "fastpaintings-1.20-1.2.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcf4e0109d9cb8d3ab1436cd0582a93b08581677"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4855947
+project-id = 883287

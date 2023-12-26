@@ -1,0 +1,13 @@
+name = "Formations Nether"
+filename = "formationsnether-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea101d71b9465877142d3d78505d31b950e03cfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4809801
+project-id = 918840

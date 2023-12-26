@@ -1,0 +1,13 @@
+name = "Keybind Fix"
+filename = "keybind_fix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22d779169f893f48bd3d16e7b6f8f3dd65c8fbbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3860971
+project-id = 640307

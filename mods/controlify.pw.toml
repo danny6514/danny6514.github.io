@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "Controlify-1.6.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e275c636fcdf020f906037861a62d0614d2b0f94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4712710
+project-id = 835847

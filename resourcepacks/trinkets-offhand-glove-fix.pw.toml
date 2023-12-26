@@ -1,0 +1,13 @@
+name = "Trinkets Offhand Fix"
+filename = "Trinkets_OffhandFix_1.2+1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12f29736bcc4414f1b364202681da5b4d1fb59c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4747044
+project-id = 874018
