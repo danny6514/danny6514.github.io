@@ -1,0 +1,13 @@
+name = "BCLib"
+filename = "bclib-1.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fd5874f036daf09fa0da9347cb5384759a6788c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3794044
+project-id = 495191
