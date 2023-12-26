@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
+hash = "23442876f9aa6e9b51851c65b71dfe827956785c76623b331f48eaf2cab503c1"
+
+[[files]]
 file = "mods/additional-structures-fabric.toml"
 hash = "cd8faedc22db3735071a5a70c9d10294130fe73ebbf3a0e1f82fc6681aa32f5e"
 metafile = true
@@ -96,9 +100,8 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.toml"
-hash = "688fde4acc6a4775e88f7f66195eca2446c6e8fcaab49c0f7e448b1d44f805a1"
-metafile = true
+file = "mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
+hash = "e2daed6d6ff2c0277063d0ac55c5345af898034f96da3e1be01e26475f61c13c"
 
 [[files]]
 file = "mods/equipment-compare-fabric.toml"
@@ -263,11 +266,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "67c62d5ece7f3e8329e373cc5a1fe65a3c77e70a6b08251a8bc35d7648f28185"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.toml"
-hash = "fa6f86efdcc9b11eb7f55b4a52b05a02ea8f2703e33879cc5ba7c4ffba42d363"
 metafile = true
 
 [[files]]
