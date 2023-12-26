@@ -9,6 +9,26 @@ file = "config/AqMods/caracal.config"
 hash = "753b3922c852fb17eb2d6eacfa3475cf8561a4214d49e7515dca30b1f6191865"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/adventurez.json5"
 hash = "150438f1c9f49ab6a27ff9afe00fa76de43c6b7624ff0337f59ca3ac97a559ad"
 
@@ -138,7 +158,7 @@ hash = "734fe8681db1c7667c30d643dc43ed2a545694b655b78d07cd1fe059bd44cebf"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f975de9dee94cc0b5d9a5278c2fe67cc1d1ff9ba3bb75152e7109dd5051a6a2b"
+hash = "ce504a2722d0f199c06675b8c32930131a8e636414c6c2e428208a9d0609ed37"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -161,16 +181,24 @@ file = "config/illagerinvasion-server.toml"
 hash = "1bdc7f88089b31a0ae83028746b34ae8613c9e5858ce5bc9f0a6fb4c026a2689"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+
+[[files]]
 file = "config/indium-renderer.properties"
-hash = "52745a429c2bc8729c660586b09e36561b22a0d29a72ad657229563073df56c7"
+hash = "eadb365fb25c9b5cd49ced258f603dff465788bfd3c77e951ec09fbbd6e08017"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1746bab262a8151455b65eee1bfa88184e44c128a08878bcf1b67b43a5ef8f2e"
+hash = "2b53ce9e3c1e896fecd39a7808ff5973914285f56cdc94f3d904ac472e149bed"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
 hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "081b680414c8a5bc1113b032d9bf1124aef3040896a9bf12c2da355693495c2d"
 
 [[files]]
 file = "config/lithium.properties"
@@ -179,6 +207,10 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 [[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "767d3e6666fa1b7ccece6fa96a7c1c01b53a6f0fa88c5a33028535919086e374"
 
 [[files]]
 file = "config/modmenu.json"
@@ -520,6 +552,11 @@ hash = "3629a2daff0b2fde2f9230f37c1cd4c50340e6f34186408f736b6f3bcbf0cb09"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1572c240a0537eafc9f480ab52db4bbcc9c58fcccc635754d7892145ded64401"
 metafile = true
@@ -565,7 +602,7 @@ hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-fabric.toml"
+file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "67c62d5ece7f3e8329e373cc5a1fe65a3c77e70a6b08251a8bc35d7648f28185"
 metafile = true
 
