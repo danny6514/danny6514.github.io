@@ -1,3 +1,4 @@
 fullscreen:true
 resourcePacks:["vanilla","fabric","cullleaves:smartleaves","file/Faithful 64x - Beta 9.zip","file/Better-Leaves-7.2-1.19+.zip"]
+incompatibleResourcePacks:["file/Better-Leaves-7.2-1.19+.zip"]
 skipMultiplayerWarning:true
