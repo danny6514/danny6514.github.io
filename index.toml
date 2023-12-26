@@ -450,11 +450,6 @@ hash = "39e044bbcd82d957de2b8010b8ec34b6c85064159d94e95c2ab7f7a1433bf713"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "24ce4ba24398f4d0562d16be21b986df01f85e522d4046c0d10e76b8cb439f43"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -472,11 +467,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
 
 [[files]]
@@ -527,11 +517,6 @@ metafile = true
 [[files]]
 file = "mods/more-villagers-fabric.pw.toml"
 hash = "8d0412794abda3c9eaf4c673d96a45fe6a635142b1e853555d6574406af02b23"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
