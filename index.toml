@@ -383,6 +383,11 @@ hash = "1b222f2d73036e0d08be25c3c8c5a77a8454b1f399467ff212d09e936426734e"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "c6d78fba98d31218e871f7b3633660a7f484e10725bdcf6f8a0aa633f250b2af"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cacd0b884c6969862cfabaf03b1a2f90c84ad5a521738ee66bd9043e8a045d9c"
 metafile = true
@@ -428,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -572,6 +577,11 @@ hash = "8d0412794abda3c9eaf4c673d96a45fe6a635142b1e853555d6574406af02b23"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
@@ -584,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/physics-mod.pw.toml"
 hash = "57b7d14d85979a01b240162c67a2898e7873e654ba31e0f3cee968e327a6f982"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "d53a9b17a24b687107b6012579418f9a4dd49eaf768513f952e970e3b43de8ab"
 metafile = true
 
 [[files]]
@@ -609,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "5a63d33c5f1afc8ea05bf0c3dfe608b91432acb688facbfb5a72ead74ee6aa90"
+metafile = true
+
+[[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "58f8057492b0c2a4a52ffd6daae471a02205986dc9d5fec62f401a74605cbd3a"
 metafile = true
 
 [[files]]
