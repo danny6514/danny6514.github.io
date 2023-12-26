@@ -21,6 +21,4 @@ Going forward, all you need to do is open MultiMC and click "1.20.1-modded" (ste
 
 ## Shaders
 
-This modpack comes with [Complementary Shader](https://www.curseforge.com/minecraft/customization/complementary-shaders), it is disabled by default as it is GPU-hungry. For those with a more powerful GPU, turning it on will significantly improve the graphics. To enable: Press ESC in game --> Options --> Video Settings --> Shader Packs --> Select "ComplementaryShaders_vx.x.zip" then click "Done"
-
-Feel free to also browse around for other shaders, as long as it is compatible with game version 1.20.1 and Iris (mod we are using in lieu of Optifine, as Optifine is bug-prone).
+This modpack comes with custom shaders, it is disabled by default as it is GPU-hungry. For those with a more powerful GPU, turning it on will significantly improve the graphics. To enable: Press ESC in game --> Options --> Video Settings --> Shader Packs --> Select "Complementary**.zip" then click "Done"
