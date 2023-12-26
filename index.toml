@@ -75,7 +75,7 @@ hash = "1b222f2d73036e0d08be25c3c8c5a77a8454b1f399467ff212d09e936426734e"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.toml"
+file = "mods/creeper-overhaul.pw.toml"
 hash = "cacd0b884c6969862cfabaf03b1a2f90c84ad5a521738ee66bd9043e8a045d9c"
 metafile = true
 
@@ -149,6 +149,11 @@ hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
 metafile = true
@@ -174,8 +179,8 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.toml"
-hash = "50f3f838d48059fab28a23fd7761bf72461067aacb49356884b0f56f704f116f"
+file = "mods/iris.pw.toml"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -269,8 +274,18 @@ hash = "67c62d5ece7f3e8329e373cc5a1fe65a3c77e70a6b08251a8bc35d7648f28185"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "5a63d33c5f1afc8ea05bf0c3dfe608b91432acb688facbfb5a72ead74ee6aa90"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
