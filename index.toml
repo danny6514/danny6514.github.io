@@ -241,34 +241,6 @@ file = "config/patchouli.json5"
 hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
-file = "config/physicsmod/physics_animations_client_config.json"
-hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
-
-[[files]]
-file = "config/physicsmod/physics_blocks_client_config.json"
-hash = "ccb8270a4af4f20ed1f839826e051c76c4c1017018a24ffcc21d3276cd7feb6d"
-
-[[files]]
-file = "config/physicsmod/physics_client_config.json"
-hash = "151216347aa4531bab93625c18e324f1a6fae35563c6b9305c75ecf891a97d38"
-
-[[files]]
-file = "config/physicsmod/physics_cloth_config.json"
-hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
-
-[[files]]
-file = "config/physicsmod/physics_mobs_client_config.json"
-hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
-
-[[files]]
-file = "config/physicsmod/physics_server_config.json"
-hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
-
-[[files]]
-file = "config/physicsmod/physics_vines_client_config.json"
-hash = "c5c01f22374f25f5fea5b65529605f1b8bb594c8168234d77cf5854e15de75e0"
-
-[[files]]
 file = "config/promenade/animals.json"
 hash = "a261533025ec0562fad9ea746f6257354f746a513c218a2a466b9917cec3edda"
 
@@ -628,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
-metafile = true
-
-[[files]]
-file = "mods/physics-mod.pw.toml"
-hash = "57b7d14d85979a01b240162c67a2898e7873e654ba31e0f3cee968e327a6f982"
 metafile = true
 
 [[files]]
