@@ -205,12 +205,44 @@ file = "config/iris.properties"
 hash = "639687e703730644db9366321ef3ac61e7457af1e003f542c9d36e0abb15f5af"
 
 [[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "8bfea20cceb1f3d32fa5de92f907149d20207c2ba786539d2431133f386e560d"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "f6faa8cf111795b26bb59fe7618381fba1879ddc35dbac176297f57941496ff6"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "e29c72e0fec5860b6cc5a4466841e4092a863002e8f56247569c83fdfe494a09"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "b59a88aa949d17f178328f20310d34dbd682c8a63ae6b79a49fdfbcbc1e44d2b"
+
+[[files]]
 file = "config/kleeslabs-common.toml"
 hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "5eea0da46071b1d9253872d9eeff2a6f611232b8107722df08ac1e73a89e2a46"
+hash = "d1896b84512fda9d76e48400a376e9c6eab9bb0ca9713f00f9ea133f3c2fd45d"
 
 [[files]]
 file = "config/lithium.properties"

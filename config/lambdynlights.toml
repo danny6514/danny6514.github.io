@@ -52,6 +52,18 @@ mode = "fancy"
 				armor_stand = true
 				item_frame = true
 				enderman = true
+				husk = true
+				potion = true
+				frog = true
+				arrow = true
+				dolphin = true
+				tropical_fish = true
+				pufferfish = true
+				cod = true
+				experience_orb = true
+				area_effect_cloud = true
+				witch = true
+				horse = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				cave_creeper = true
@@ -73,6 +85,9 @@ mode = "fancy"
 				lion = true
 				vulture = true
 				bass = true
+				boar = true
+				rattlesnake = true
+				giraffe = true
 
 			[light_sources.settings.entities.aqupd]
 				caracal = true
