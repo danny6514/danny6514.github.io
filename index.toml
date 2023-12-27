@@ -242,7 +242,7 @@ hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "d1896b84512fda9d76e48400a376e9c6eab9bb0ca9713f00f9ea133f3c2fd45d"
+hash = "e860bb5d6816012a85940869f5b8495569c6304206c5d566c141cb30b5118c1a"
 
 [[files]]
 file = "config/lithium.properties"

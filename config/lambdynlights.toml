@@ -64,6 +64,7 @@ mode = "fancy"
 				area_effect_cloud = true
 				witch = true
 				horse = true
+				cave_spider = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				cave_creeper = true
