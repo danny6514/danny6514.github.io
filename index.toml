@@ -531,6 +531,11 @@ hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "f88a05405d8e094c84a5e006f75a8dc58e36b0d49147d0c6c9e1b90091a17331"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs-fabric.toml"
 hash = "0e763074f945d2dbdf4e1597a953444a55086afb23caec3b98e23cabde39bc77"
 metafile = true
