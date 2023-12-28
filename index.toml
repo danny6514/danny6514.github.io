@@ -485,6 +485,11 @@ hash = "81ff1d479c2959e4fb947b836441827b4fc2272f78d1a572537298d95301d772"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "bb7a1558b439174e61c3feb208352285859c4e7200d25e076a167f8dd09d55b5"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.toml"
 hash = "bb7a1558b439174e61c3feb208352285859c4e7200d25e076a167f8dd09d55b5"
 metafile = true
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "5c4beef2abeebe14660358a2b7e9525392d04f2efa20da60eb130d68d9075b6d"
 metafile = true
 
 [[files]]
