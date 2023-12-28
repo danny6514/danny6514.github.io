@@ -65,12 +65,16 @@ mode = "fancy"
 				witch = true
 				horse = true
 				cave_spider = true
+				cow = true
+				ocelot = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				cave_creeper = true
 				snowy_creeper = true
 				dripstone_creeper = true
 				ocean_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
 
 			[light_sources.settings.entities.promenade]
 				lush_creeper = true
@@ -89,6 +93,7 @@ mode = "fancy"
 				boar = true
 				rattlesnake = true
 				giraffe = true
+				lizard = true
 
 			[light_sources.settings.entities.aqupd]
 				caracal = true
