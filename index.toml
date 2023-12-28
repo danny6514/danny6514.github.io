@@ -205,6 +205,30 @@ file = "config/iris.properties"
 hash = "639687e703730644db9366321ef3ac61e7457af1e003f542c9d36e0abb15f5af"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "ed7074efd9ab392d72659d78584741ced0313810428c713378caab9003bb361c"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "cc8f48541f9dac1ad67c1ab08f4c656eba69a934d2476b87f8a0d5955c0b639d"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "42b4788b35a2c7292ccfa8e9ff896c8b45a16688c79d707b50d7a9bc559eb200"
+
+[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -242,7 +266,7 @@ hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "e860bb5d6816012a85940869f5b8495569c6304206c5d566c141cb30b5118c1a"
+hash = "bb99d900cbceb9d7648925321a028da1206988f9498f9bb5e29efb8d6d3301de"
 
 [[files]]
 file = "config/lithium.properties"
