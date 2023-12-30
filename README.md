@@ -1,9 +1,9 @@
 # Minecraft Modded Server
 
 ## Setup instructions
-1. Download Java 17 and install it: https://www.oracle.com/java/technologies/downloads
+1. Download Java 17 and install it: https://www.oracle.com/java/technologies/downloads/#jdk17-windows
    - Windows: Select the "Java 17" tab, then "Windows", then "x64 Installer"
-   - Mac: Select the "Java 17" tab, then "Mac", then "x64 DMG Installer"
+   - Mac: Select the "Java 17" tab, then "Mac", then "x64 or ARM64 DMG Installer" (depending on whether you have M1/M2/M3 Macs)
 2. Download Prism Launcher and install it: https://prismlauncher.org/download?from=button
 3. Open Prism Launcher
 4. Add Instance --> Select "Import" in the left menu --> Enter "https://danny6514.github.io/1.20.1-modded-prism.zip" --> Click "OK"
