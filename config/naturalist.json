@@ -15,7 +15,7 @@
   "deerSpawnWeight": 8,
   "rhinoSpawnWeight": 15,
   "lionSpawnWeight": 8,
-  "elephantSpawnWeight": 10,
+  "elephantSpawnWeight": 0,
   "zebraSpawnWeight": 10,
   "giraffeSpawnWeight": 10,
   "hippoSpawnWeight": 15,

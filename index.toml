@@ -290,7 +290,7 @@ hash = "832818b27a76df025a408d353f3aada9195a0a6f0eed5269ddb795d65501078a"
 
 [[files]]
 file = "config/naturalist.json"
-hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
+hash = "0b370a0e482cdaf4a72c4faa0153d6a6b2eb8363c9d787ba64db729901309d96"
 
 [[files]]
 file = "config/patchouli.json5"
